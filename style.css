@@ -23,7 +23,7 @@
     padding:0px;
 }
 body{
-    background-color: #A6EB60;
+    background-color: #A6EB;
     font-family:var(--font-padrao);
 }
 a.externo::after{
